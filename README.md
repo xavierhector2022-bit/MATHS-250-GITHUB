@@ -1,8 +1,6 @@
 
-# MATHS 250 GITHUB
+# MATHS 250 GITHUB Set Up
 
-<!-- badges: start -->
-<!-- badges: end -->
+This is just a git and github sandbox for y'all.
 
-The goal of MATHS 250 GITHUB is to ...
 
