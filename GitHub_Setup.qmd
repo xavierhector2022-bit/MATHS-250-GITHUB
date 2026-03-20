@@ -1,0 +1,20 @@
+---
+title: "GitHub Setup"
+author: "Xavier Hector"
+format: html
+embed-resources: true
+---
+# Friday 20th March
+
+## Github Setup
+
+
+```{r}
+library(usethis )
+create_github_token()
+gitcreds::gitcreds_set()
+
+use_github()
+
+```
+
