@@ -1,63 +1,81 @@
-# Math 250 Project – Statistical Programming in R
+# Introduction to Statistical Programming (MATH 250)
 
-## 📌 Overview
-This project was completed for **Math 250: Introduction to Statistical Programming** at Lake Forest College. The goal of the project is to apply data analysis techniques using **R** to extract insights from real-world data.
-
-The project follows the full data analysis workflow:
-- Data collection
-- Data cleaning (wrangling)
-- Exploratory data analysis (EDA)
-- Visualization
-- Statistical inference / modeling
-- Interpretation of results
+Welcome to my project repository for Introduction to Statistical Programming at Lake Forest College.  
+This course focuses on using programming and statistical methods to analyze real-world data, with an emphasis on practical data analysis skills.
 
 ---
 
-## Objectives
-- Apply **tidy data principles**
-- Transform messy datasets into usable formats
-- Create clear and effective **data visualizations**
-- Perform **statistical analysis** in R
-- Communicate insights with clarity and professionalism
+## About This Repository
+
+This repository showcases projects centered on analyzing and interpreting data using R. The work emphasizes:
+
+- Transforming raw data into clean, usable formats  
+- Applying statistical techniques to real-world datasets  
+- Creating clear and effective data visualizations  
+- Communicating insights through code and analysis  
+- Understanding the limitations and assumptions of statistical methods  
 
 ---
 
-## Tools & Technologies
-- R
-- RStudio
-- tidyverse (dplyr, ggplot2, tidyr, etc.)
-- Additional packages as needed
+## Topics Covered
+
+Throughout this course, I explored key areas of data analysis and statistical programming:
+
+### Data Wrangling and Cleaning
+- Tidy data principles  
+- Data transformation using dplyr and tidyr  
+- Handling missing and inconsistent data  
+
+### Data Visualization
+- Grammar of Graphics (ggplot2)  
+- Building informative visualizations  
+- Exploring patterns and relationships in data  
+
+### Statistical Inference
+- Sampling and simulation  
+- Hypothesis testing  
+- Confidence intervals  
+
+### Regression and Modeling
+- Simple and multiple regression  
+- Interpreting model outputs  
+- Evaluating model assumptions  
+
+### Additional Topics
+- Categorical data analysis  
+- Analysis of variance (ANOVA)  
+- Introductory time series concepts  
 
 ---
 
-## Project Structure
+## Project Highlights
+
+- Cleaned and analyzed real-world datasets using R  
+- Built visualizations to uncover patterns and trends  
+- Applied statistical models to answer data-driven questions  
+- Interpreted results with a focus on clarity and relevance  
+- Developed reproducible workflows for data analysis  
 
 ---
 
-## Key Components
+## Tools and Technologies
 
-### 1. Data Cleaning
-- Handled missing values
-- Reshaped and transformed variables
-- Ensured data follows tidy format
+- R  
+- RStudio  
+- tidyverse (dplyr, ggplot2, tidyr)  
+- Quarto / R Markdown  
 
-### 2. Exploratory Data Analysis
-- Summary statistics
-- Distribution analysis
-- Identification of trends and patterns
+---
 
-### 3. Data Visualization
-- Used ggplot2 for visualizations
-- Created plots such as:
-  - Bar charts
-  - Histograms
-  - Scatterplots
-  - Boxplots
+## Learning Outcomes
 
-### 4. Statistical Analysis
-- Hypothesis testing
-- Regression analysis (simple/multiple)
-- Interpretation of statistical results
+- Developed a strong foundation in data analysis using R  
+- Learned how to work with messy, real-world datasets  
+- Gained experience in statistical reasoning and inference  
+- Improved ability to communicate insights through data  
+- Built practical skills applicable to data science and economics  
 
+---
 
+Feel free to explore the projects and reach out with any questions or feedback.
 
